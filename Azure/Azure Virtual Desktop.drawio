@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T12:59:04.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="c2cn1St6IsDhT7K9NyY5" version="24.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-20T13:08:01.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wI2_3vQe9H2uZtoeF3sd" version="24.7.1" type="github" pages="2">
   <diagram name="ARM" id="niAFsp3WCU0wCWim4Omd">
     <mxGraphModel dx="1207" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,23 @@
           <mxGeometry x="120" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rMubQYI3aIlVxIVUiOJK-6" value="Users" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="680" width="36.57" height="40" as="geometry" />
+          <mxGeometry x="730" y="481.5" width="36.57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rMubQYI3aIlVxIVUiOJK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rMubQYI3aIlVxIVUiOJK-7" target="9NPrkyztuv0O4a0x9Zkm-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="581" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMubQYI3aIlVxIVUiOJK-7" value="Desktop Virtualization User&#xa;&lt;RBAC assignmrnt&gt;" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NSA2NSIgZGF0YS1zbHVnLWlkPSJyYmFjLWJ1aWx0LWluLXJvbGVzIj4mI3hhOyAgICA8cG9seWdvbiBwb2ludHM9IjMyLjU5IDIuNSA2Mi4xOCAzOC4wMSAzMi44MSA2Mi41IDIuODIgMzcuNzkgMzIuNTkgMi41IiBmaWxsPSIjMzE3N2JjIi8+JiN4YTsgICAgPHBvbHlsaW5lIHBvaW50cz0iMjkuMDggMzUuMTYgMjkuMjMgNTAuMjEgMzIuMzYgNTQuNDMgMzYuNTMgNTAuNTQgMzMuMjIgNDcuODEgMzYuNTMgNDQuNzggMzMuMjIgNDEuMzIgMzYuNTMgMzguNzMgMzYuNTMgMzUuMTMiIGZpbGw9IiNmZmYiLz4mI3hhOyAgICA8cmVjdCByeT0iOC4zMyIgcng9IjguMzMiIGhlaWdodD0iMTYuNjYiIHdpZHRoPSIxNi42NiIgeT0iMTguOTYiIHg9IjI0LjQ4IiBmaWxsPSIjZmZmIi8+JiN4YTsgICAgPGNpcmNsZSByPSIzLjE1IiBjeT0iMjUuMzIiIGN4PSIzMi41OSIgZmlsbD0iIzMxNzdiYyIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="41.5" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rMubQYI3aIlVxIVUiOJK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rMubQYI3aIlVxIVUiOJK-7" target="rMubQYI3aIlVxIVUiOJK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rMubQYI3aIlVxIVUiOJK-10" value="TODO: other RBAC assignments?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="688.29" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NPrkyztuv0O4a0x9Zkm-13" value="ER" parent="0" />
         <mxCell id="9NPrkyztuv0O4a0x9Zkm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="9NPrkyztuv0O4a0x9Zkm-13" source="9NPrkyztuv0O4a0x9Zkm-4" target="9NPrkyztuv0O4a0x9Zkm-5" edge="1">
