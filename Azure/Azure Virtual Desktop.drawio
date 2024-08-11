@@ -640,6 +640,9 @@
         <mxCell id="a1BLgS_bcgvOSFhCjuDc-22" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="68" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="65EEBAWaPq4hvrmgudSw-2" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;App attach improves the administrative and user experiences over MSIX app attach.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px;&quot;&gt;If you use MSIX app attach, you can migrate your MSIX packages to app attach using a PowerShell script.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=1;points=[];autosize=0;strokeColor=default;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="660" width="350" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
