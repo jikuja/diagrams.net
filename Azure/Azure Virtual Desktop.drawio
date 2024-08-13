@@ -107,7 +107,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rMubQYI3aIlVxIVUiOJK-2" value="1..N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9NPrkyztuv0O4a0x9Zkm-21" vertex="1" connectable="0">
+        <mxCell id="rMubQYI3aIlVxIVUiOJK-2" value="0..N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9NPrkyztuv0O4a0x9Zkm-21" vertex="1" connectable="0">
           <mxGeometry x="-0.949" y="2" relative="1" as="geometry">
             <mxPoint x="-15" y="-12" as="offset" />
           </mxGeometry>
@@ -130,7 +130,7 @@
             <mxPoint x="10" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7JBBgt3OLXeNmWW0EqQ-12" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9NPrkyztuv0O4a0x9Zkm-22">
+        <mxCell id="l7JBBgt3OLXeNmWW0EqQ-12" value="0..N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9NPrkyztuv0O4a0x9Zkm-22">
           <mxGeometry x="-0.85" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
